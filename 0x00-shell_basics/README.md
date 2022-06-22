@@ -9,7 +9,8 @@
 8 - script to delete a file from a directory
 9 - script to delete a directory
 10 - script to go back to the previous working directory
-11 - script to list all files in the current, parent and boot working directories
+11 - script to list all files in the current, parent and boot directories
 12 - script to check the type of a file
 13 - script to create a symbolic link in current directory
 14 - script to copy html files
+15 - script that moves all files beginning with uppercase letter to a directory
