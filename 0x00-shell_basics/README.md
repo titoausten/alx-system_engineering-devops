@@ -11,3 +11,4 @@
 10 - script to go back to the previous working directory
 11 - script to list all files in the current, parent and boot working directories
 12 - script to check the type of a file
+13 - script to create a symbolic link in current directory
