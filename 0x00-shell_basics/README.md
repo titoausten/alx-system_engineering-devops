@@ -4,4 +4,5 @@
 3 - Display current directory contents in a long format
 4 - Display current directory contents including hidden files in long format
 5 - Display contents in digits only
-6 -  a script that creates a directory
+6 - a script that creates a directory
+7 - a script to move a file to another directory 
