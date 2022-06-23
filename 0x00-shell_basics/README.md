@@ -14,3 +14,4 @@
 13 - script to create a symbolic link in current directory
 14 - script to copy html files.
 15 - script that moves all files beginning with uppercase letter to a directory
+16 - script to clean emacs
