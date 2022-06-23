@@ -4,3 +4,4 @@
 4 - script to change ownership of file
 5 - script to create file
 6 - script to make file executable by owner
+7 - script to give multiple permissions
