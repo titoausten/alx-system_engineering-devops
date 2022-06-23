@@ -16,3 +16,4 @@
 15 - script that moves all files beginning with uppercase letter to a directory
 16 - script to clean emacs
 17 - script to create multiple directories
+18 - script to list files and directories with commas
