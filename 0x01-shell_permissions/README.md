@@ -14,3 +14,4 @@
 13 - script to change group user for a file
 100 - script to change owner and group
 101 - script for symbolic link permissions
+102 - script for ownership change if a user exists
