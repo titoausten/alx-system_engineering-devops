@@ -5,3 +5,4 @@
 5 - script to create file
 6 - script to make file executable by owner
 7 - script to give multiple permissions
+8 - script to give executable permissions for all
