@@ -8,3 +8,4 @@
 8 - script to give executable permissions for all
 9 - script to give only others permissions
 10 - script John Doe
+11 - script for mirror permissions
