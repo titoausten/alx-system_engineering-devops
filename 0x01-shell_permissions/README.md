@@ -1,13 +1,14 @@
 0 - script to switch user
 1 - script to print current user
 2 - script that prints all the groups the current user is part of
-4 - script to change ownership of file
-5 - script to create file
-6 - script to make file executable by owner
-7 - script to give multiple permissions
-8 - script to give executable permissions for all
-9 - script to give only others permissions
-10 - script John Doe
-11 - script for mirror permissions
-12 - script to make only subdirectories executable for all
-13 - script to craete directory with permissions
+3 - script to change ownership of file
+4 - script to create file
+5 - script to make file executable by owner
+6 - script to give multiple permissions
+7 - script to give executable permissions for all
+8 - script to give only others permissions
+9 - script John Doe
+10 - script for mirror permissions
+11 - script to make only subdirectories executable for all
+12 - script to create directory with permissions
+13 - script to change group user for a file
