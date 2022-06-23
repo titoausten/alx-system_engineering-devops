@@ -17,3 +17,4 @@
 16 - script to clean emacs
 17 - script to create multiple directories
 18 - script to list files and directories with commas
+19 - magic file
