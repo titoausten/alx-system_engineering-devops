@@ -9,3 +9,4 @@
 9 - script to give only others permissions
 10 - script John Doe
 11 - script for mirror permissions
+12 - script to make only subdirectories executable for all
