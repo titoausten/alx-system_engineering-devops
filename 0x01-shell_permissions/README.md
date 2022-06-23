@@ -13,3 +13,4 @@
 12 - script to create directory with permissions
 13 - script to change group user for a file
 100 - script to change owner and group
+101 - script for symbolic link permissions
